@@ -8,10 +8,10 @@ function HomePage() {
         const getData = async () => {
           const res = await fetch(getCoinList());
           const json = await res.json();
-          setCoins(json)
+          setCoins(json);
         }
-        getData()
-    },[])
+        getData();
+    },[]);
   return (
     <div>
         <TableCoin coins={coins}/>
