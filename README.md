@@ -1,6 +1,9 @@
-Crypto React App
 
+# Crypto React App
 
--Working with coingeckoAPI
--Customize and build chart with recharts library
--Custom Search and Pagination
+Currency Information With API
+
+## Features
+⚙️ Working with coingeckoAPI </br>
+⚙️ Customize and build chart with recharts library </br>
+⚙️ Custom Search and Pagination </br>
